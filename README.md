@@ -8,7 +8,7 @@
 
 👤 **Zach Godsell**
 
-* Website: zachgodselll
+* Website: [zachgodsell.com.au](https://zachgodsell.com.au)
 * Github: [@zgods1](https://github.com/zgods1)
 
 ## Show your support
