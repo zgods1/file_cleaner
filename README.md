@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to  Clean 👋</h1>
+<h1 align="center">Welcome to Py-File-Cleaner 👋</h1>
 <p>
 </p>
 
