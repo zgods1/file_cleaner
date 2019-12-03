@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> This is a simple script that will tidy up any files in to foolders tha we can organise things in to
+> This is a simple python script that will tidy up any files in to foolders tha we can organise things in to folders based on the file extension
 
 ## Author
 
@@ -16,4 +16,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
